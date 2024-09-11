@@ -3,8 +3,7 @@ Overview
 
 This space shooter game is the final project for the Object-Oriented Programming Course at Bahria University, created by students from BS IT 2-A. The development team includes:
 
-Kashmallah Shah     (01-135231-041)  
-Sami Ur Rehman Raja (01-135231-084)
+Kashmallah Shah    
 
 Introduction
 Space Shooter games have been a classic genre that has captivated players for decades. The thrill of navigating through the vastness of space, dodging enemy fire, and engaging in intense battles has made them a timeless favorite. In this project, we bring you our interpretation of the space shooter genre, featuring dynamic gameplay, two-player functionality, and binary file handling for enhanced player experience.
